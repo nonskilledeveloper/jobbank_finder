@@ -4,8 +4,6 @@
 
 This is a Web Scraper specially designed to find job offers from the canadian website [Job Bank](https://jobbank.gc.ca/) that matches with specific criterias that are not possible to configure in the own website, at least up today.
 
-### GitHub Link -> [JobBank_Finder](github.com/)
-
 Also, this software ranks the job offers, and generates a file with the results found that is very easy to read.
 
 ![](https://assets.nonskilledeveloper.com/16675304997229.jpg)
