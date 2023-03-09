@@ -6,7 +6,7 @@ This is a Web Scraper specially designed to find job offers from the canadian we
 
 Also, this software ranks the job offers, and generates a file with the results found that is very easy to read.
 
-![](https://assets.nonskilledeveloper.com/16675304997229.jpg)
+![](http://assets.nonskilledeveloper.com/16675304997229.jpg)
 
 
 For example, I'm going to check the job offers avalaible today, which have a positive LMIA (Approved), that do not requires high education, that do not require previous experience...  Until now, all these criterias are possible to configure in the website, yes, but here it comes the interesting part:
